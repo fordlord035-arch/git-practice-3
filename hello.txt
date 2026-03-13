@@ -1,2 +1,5 @@
 Hello Git
+HEAD
 Hello from master branch
+Hello from feature branch
+ feature
